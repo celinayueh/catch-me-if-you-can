@@ -39,7 +39,6 @@ p {
 /* SECTIONS */
 
 .matchTimer {
-    display: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -58,6 +57,7 @@ p {
 .buttonContainer {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 } 
 
 /* timerBtn Class */
